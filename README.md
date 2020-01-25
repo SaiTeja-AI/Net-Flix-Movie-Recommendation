@@ -39,3 +39,6 @@ For a given movie and user we need to predict the rating would be given by him/h
   <li> Minimize RMSE. </li>
   <li> Try to provide some interpretability </li>
 </ol>
+<h3>
+NEW Modification
+</h3>
